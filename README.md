@@ -6,4 +6,4 @@
 
 **Run**: ./adaptive_noise_filter <input_image> <output_image>
 
-**Shell Script** (compile + run on all test images): ./run_test.sh
+**Shell Script** (compile + run on all test images): ./run_tests.sh
