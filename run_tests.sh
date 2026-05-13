@@ -3,7 +3,6 @@
 mkdir -p output
 mkdir -p logs
 
-# Compile
 gcc adaptive_noise_filter.c -o adaptive_noise_filter -lm
 
 if [ $? -ne 0 ]; then
@@ -11,7 +10,6 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-# Clear previous log
 > logs/results.txt
 
 for img in ./test_images/*/*.pgm; do
