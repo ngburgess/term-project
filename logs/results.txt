@@ -1,0 +1,330 @@
+===================================
+Processing: bridge_gaussian_10
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0000
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 17.58
+Detected LOW Gaussian-like noise
+Applying bilateral filter: sigma_s=1.5, sigma_r=15.0
+
+===================================
+Processing: bridge_gaussian_20
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0002
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 26.38
+Detected MEDIUM Gaussian-like noise
+Applying bilateral filter: sigma_s=2.0, sigma_r=25.0
+
+===================================
+Processing: bridge_gaussian_40
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0079
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.0613
+Detected MEDIUM salt-and-pepper noise
+Applying median filter: kernel=5x5
+
+===================================
+Processing: bridge_salt_pepper_01
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0079
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.0170
+Detected LOW salt-and-pepper noise
+Applying median filter: kernel=3x3
+
+===================================
+Processing: bridge_salt_pepper_05
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0390
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.0572
+Detected MEDIUM salt-and-pepper noise
+Applying median filter: kernel=5x5
+
+===================================
+Processing: bridge_salt_pepper_10
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0774
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.1067
+Detected HIGH salt-and-pepper noise
+Applying median filter: kernel=7x7
+
+===================================
+Processing: columbia_gaussian_10
+===================================
+Width=480, Height=480 
+Maximum=255
+Local impulse ratio: 0.0000
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 13.29
+Detected LOW Gaussian-like noise
+Applying bilateral filter: sigma_s=1.5, sigma_r=15.0
+
+===================================
+Processing: columbia_gaussian_20
+===================================
+Width=480, Height=480 
+Maximum=255
+Local impulse ratio: 0.0000
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 23.60
+Detected MEDIUM Gaussian-like noise
+Applying bilateral filter: sigma_s=2.0, sigma_r=25.0
+
+===================================
+Processing: columbia_gaussian_40
+===================================
+Width=480, Height=480 
+Maximum=255
+Local impulse ratio: 0.0056
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 43.23
+Detected HIGH Gaussian-like noise
+Applying bilateral filter: sigma_s=3.0, sigma_r=40.0
+
+===================================
+Processing: columbia_salt_pepper_01
+===================================
+Width=480, Height=480 
+Maximum=255
+Local impulse ratio: 0.0066
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 7.34
+Detected LOW Gaussian-like noise
+Applying bilateral filter: sigma_s=1.5, sigma_r=15.0
+
+===================================
+Processing: columbia_salt_pepper_05
+===================================
+Width=480, Height=480 
+Maximum=255
+Local impulse ratio: 0.0342
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.0497
+Detected MEDIUM salt-and-pepper noise
+Applying median filter: kernel=5x5
+
+===================================
+Processing: columbia_salt_pepper_10
+===================================
+Width=480, Height=480 
+Maximum=255
+Local impulse ratio: 0.0691
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.1012
+Detected HIGH salt-and-pepper noise
+Applying median filter: kernel=7x7
+
+===================================
+Processing: goldhill_gaussian_10
+===================================
+Width=720, Height=576 
+Maximum=255
+Local impulse ratio: 0.0000
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 13.58
+Detected LOW Gaussian-like noise
+Applying bilateral filter: sigma_s=1.5, sigma_r=15.0
+
+===================================
+Processing: goldhill_gaussian_20
+===================================
+Width=720, Height=576 
+Maximum=255
+Local impulse ratio: 0.0000
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 23.59
+Detected MEDIUM Gaussian-like noise
+Applying bilateral filter: sigma_s=2.0, sigma_r=25.0
+
+===================================
+Processing: goldhill_gaussian_40
+===================================
+Width=720, Height=576 
+Maximum=255
+Local impulse ratio: 0.0053
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 42.80
+Detected HIGH Gaussian-like noise
+Applying bilateral filter: sigma_s=3.0, sigma_r=40.0
+
+===================================
+Processing: goldhill_salt_pepper_01
+===================================
+Width=720, Height=576 
+Maximum=255
+Local impulse ratio: 0.0074
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.0101
+Detected LOW salt-and-pepper noise
+Applying median filter: kernel=3x3
+
+===================================
+Processing: goldhill_salt_pepper_05
+===================================
+Width=720, Height=576 
+Maximum=255
+Local impulse ratio: 0.0368
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.0503
+Detected MEDIUM salt-and-pepper noise
+Applying median filter: kernel=5x5
+
+===================================
+Processing: goldhill_salt_pepper_10
+===================================
+Width=720, Height=576 
+Maximum=255
+Local impulse ratio: 0.0740
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.1008
+Detected HIGH salt-and-pepper noise
+Applying median filter: kernel=7x7
+
+===================================
+Processing: lake_gaussian_10
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0000
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 15.32
+Detected LOW Gaussian-like noise
+Applying bilateral filter: sigma_s=1.5, sigma_r=15.0
+
+===================================
+Processing: lake_gaussian_20
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0000
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 24.86
+Detected MEDIUM Gaussian-like noise
+Applying bilateral filter: sigma_s=2.0, sigma_r=25.0
+
+===================================
+Processing: lake_gaussian_40
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0065
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 43.56
+Detected HIGH Gaussian-like noise
+Applying bilateral filter: sigma_s=3.0, sigma_r=40.0
+
+===================================
+Processing: lake_salt_pepper_01
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0059
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 11.38
+Detected LOW Gaussian-like noise
+Applying bilateral filter: sigma_s=1.5, sigma_r=15.0
+
+===================================
+Processing: lake_salt_pepper_05
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0312
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.0503
+Detected MEDIUM salt-and-pepper noise
+Applying median filter: kernel=5x5
+
+===================================
+Processing: lake_salt_pepper_10
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0611
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.0997
+Detected HIGH salt-and-pepper noise
+Applying median filter: kernel=7x7
+
+===================================
+Processing: peppers_gaussian_10
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0000
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 13.55
+Detected LOW Gaussian-like noise
+Applying bilateral filter: sigma_s=1.5, sigma_r=15.0
+
+===================================
+Processing: peppers_gaussian_20
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0000
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 23.76
+Detected MEDIUM Gaussian-like noise
+Applying bilateral filter: sigma_s=2.0, sigma_r=25.0
+
+===================================
+Processing: peppers_gaussian_40
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0068
+Detected Gaussian-like noise
+Gaussian-like noise estimate: 43.91
+Detected HIGH Gaussian-like noise
+Applying bilateral filter: sigma_s=3.0, sigma_r=40.0
+
+===================================
+Processing: peppers_salt_pepper_01
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0079
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.0100
+Detected LOW salt-and-pepper noise
+Applying median filter: kernel=3x3
+
+===================================
+Processing: peppers_salt_pepper_05
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0387
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.0498
+Detected MEDIUM salt-and-pepper noise
+Applying median filter: kernel=5x5
+
+===================================
+Processing: peppers_salt_pepper_10
+===================================
+Width=512, Height=512 
+Maximum=255
+Local impulse ratio: 0.0789
+Detected salt-and-pepper noise
+Salt-pepper extreme ratio: 0.1006
+Detected HIGH salt-and-pepper noise
+Applying median filter: kernel=7x7
+
